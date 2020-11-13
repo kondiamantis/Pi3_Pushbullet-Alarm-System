@@ -9,7 +9,7 @@ from picamera import PiCamera
 from pushbullet import Pushbullet
 
 
-API_KEY = 'o.j1wDJPri2Jg2NXTbwx3HW9gT4uycD2jR'
+API_KEY = 'YOUR PUSHBULLET API KEY'
 pb=Pushbullet(API_KEY)
 display=lcddriver.lcd()
 camera=PiCamera()
