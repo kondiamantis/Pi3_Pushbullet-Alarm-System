@@ -81,7 +81,7 @@ try:
                         snapshot()
                         
                         #send notification 
-                        pb.push_note("Συναγερμός!!!", "Ανιχνεύθηκε κίνηση στο δωμάτιο")
+                        pb.push_note("ALARM!!!", "Motion detected in the room!")
 
                         #send notification with image to my smartphone
                         sendImage()
