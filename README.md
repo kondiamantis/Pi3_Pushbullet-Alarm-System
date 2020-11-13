@@ -15,3 +15,5 @@ Push Buttons
 Resistors
 
 It's a great project to have a first touch with GPIOs pins and modules.
+
+For the connection with the Pushbullet API the user must create a unique API KEY and place it in the variable API_KEY. Then, he can connect his code with every device he has pushbullet connected with his account.
